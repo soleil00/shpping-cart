@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shpping-cart/static/css/main.e78bde6b.css",
+    "main.js": "/shpping-cart/static/js/main.140c96b8.js",
+    "index.html": "/shpping-cart/index.html",
+    "main.e78bde6b.css.map": "/shpping-cart/static/css/main.e78bde6b.css.map",
+    "main.140c96b8.js.map": "/shpping-cart/static/js/main.140c96b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e78bde6b.css",
+    "static/js/main.140c96b8.js"
+  ]
+}
